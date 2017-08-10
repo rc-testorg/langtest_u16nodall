@@ -17,6 +17,9 @@ node_js:
   - 7.2.1
   - 7.3.0
   - 7.4.0
+  - 8.1
+  - 8.2
+  - 6.11
   #- iojs-1.0.0 iojs versions and 1.0 to 4.x versions remove
   #- iojs-2.0.0
   #- iojs-3.3.1
